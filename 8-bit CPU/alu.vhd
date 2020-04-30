@@ -4,7 +4,7 @@ use ieee.numeric_std.all;
 
 entity alu is
 	port(opcode: in std_logic;
-		  r0, r1: in std_logic_vector(7 downto 0);
+	     r0, r1: in std_logic_vector(7 downto 0);
 	     output: out std_logic_vector(7 downto 0));
 end alu;
 
