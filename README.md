@@ -1,1 +1,1 @@
-# All VHDL projects Ive done!
+ All VHDL projects I've done!
