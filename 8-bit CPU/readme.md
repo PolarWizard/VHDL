@@ -2,10 +2,10 @@
 
 The CPU supports 4 instructions all 8 bits wide
 
-LD = 00 <- opcode   
-ADD = 01
-SUB = 10
-OUT = 11
+LD = 00 <- opcode
+ADD = 01 
+SUB = 10 
+OUT = 11 
 
 Instructions:
 00 000 000
