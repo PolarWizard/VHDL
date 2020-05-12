@@ -17,7 +17,7 @@ This ISA follows two operand notation:
 ADD $0, $1 ---> $0 = $0 + $1
 
 00 100 111
-This instruction tells us that we LD register $4 with immediate 7 .
+This instruction tells us that we LD register $4 with immediate 7.
 LD $4, 7
 
 01 100 110
